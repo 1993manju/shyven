@@ -6,7 +6,7 @@ public class SchoolTest {
 	@Test
 	public void sch()
 	{
-		System.out.println("camlin");
+		System.out.println("camlin  eng school");
 	}
 
 }
