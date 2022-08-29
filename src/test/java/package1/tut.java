@@ -6,7 +6,7 @@ public class tut {
 	@Test
 	public void tution()
 	{
-		System.out.println("reka mam");
+		System.out.println("reka mam till 10th");
 	}
 
 }
