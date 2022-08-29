@@ -2,7 +2,7 @@ package package1;
 
 import org.testng.annotations.Test;
 
-public class tut {
+public class tutTest {
 	@Test
 	public void tution()
 	{

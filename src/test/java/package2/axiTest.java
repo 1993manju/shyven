@@ -2,7 +2,7 @@ package package2;
 
 import org.testng.annotations.Test;
 
-public class axi {
+public class axiTest {
 	@Test
 	public void bnk()
 	{
